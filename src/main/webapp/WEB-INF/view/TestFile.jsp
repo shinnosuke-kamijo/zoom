@@ -4,9 +4,14 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/TestFile.css">
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>おいす</h1>
+	<h1 class="test">hello</h1>
+	<div class="box"></div>
+	<h1 class="test">good-bye</h1>
+	<div class="box"></div>
+	<h1 class="test">こんにちわ</h1>
 </body>
 </html>
